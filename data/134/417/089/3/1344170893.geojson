@@ -68,7 +68,7 @@
         "wk:page":"Nichola_Town"
     },
     "wof:country":"KN",
-    "wof:geomhash":"1193efa06e5144a3268ce84cac8275ac",
+    "wof:geomhash":"896f6583a38d826cf6fbf5448baca6df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,5 +95,5 @@
     -62.75318000000001,
     17.37956
 ],
-  "geometry": {"coordinates":[-62.75318000000001,17.37956],"type":"Point"}
+  "geometry": {"coordinates":[-62.75318,17.37956],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "wk:page":"Bath%2C_Saint_Kitts_and_Nevis"
     },
     "wof:country":"KN",
-    "wof:geomhash":"20c096a6c20c5a24af27bfcca04f9295",
+    "wof:geomhash":"6b456d114ef91a363f34aad8256ca651",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,5 +69,5 @@
     -62.62713000000001,
     17.12986
 ],
-  "geometry": {"coordinates":[-62.62713000000001,17.12986],"type":"Point"}
+  "geometry": {"coordinates":[-62.62713,17.12986],"type":"Point"}
 }

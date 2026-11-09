@@ -40,7 +40,7 @@
         "gn:id":3575341
     },
     "wof:country":"KN",
-    "wof:geomhash":"9eca3896cf21e05e05807bb131ef6c04",
+    "wof:geomhash":"af9d6372e267c1bb4f5aee5f753ed3e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,5 +65,5 @@
     -62.72901,
     17.32097000000001
 ],
-  "geometry": {"coordinates":[-62.72901,17.32097000000001],"type":"Point"}
+  "geometry": {"coordinates":[-62.72901,17.32097],"type":"Point"}
 }

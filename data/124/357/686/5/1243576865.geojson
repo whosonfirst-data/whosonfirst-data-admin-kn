@@ -49,7 +49,7 @@
         "wk:page":"Brick_Kiln"
     },
     "wof:country":"KN",
-    "wof:geomhash":"fb3c2cb169e9688e93562633cb82fef2",
+    "wof:geomhash":"464d6a445e82c8e98a38f172c18f3aef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -62.55345,
     17.17532000000001
 ],
-  "geometry": {"coordinates":[-62.55345,17.17532000000001],"type":"Point"}
+  "geometry": {"coordinates":[-62.55345,17.17532],"type":"Point"}
 }
