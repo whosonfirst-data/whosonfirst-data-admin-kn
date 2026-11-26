@@ -1,0 +1,72 @@
+{
+  "id": 9895032206,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.58785,17.13014,-62.58785,17.13014",
+    "geom:latitude":17.13014,
+    "geom:longitude":-62.58785,
+    "iso:country":"KN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11883252: name \"Beach Road\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11883252"
+        },
+        {
+            "citation":"GeoNames populated place 11883252: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11883252"
+        },
+        {
+            "citation":"GeoNames populated place 11883252: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11883252"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673139 (Saint John Figtree), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632551,
+        85673139,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11883252
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"19723b95d61fdcaad9de35195bc640f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":9895032206,
+            "region_id":85673139
+        }
+    ],
+    "wof:id":9895032206,
+    "wof:lastmodified":1795735224,
+    "wof:name":"Beach Road",
+    "wof:parent_id":85673139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.58785,
+    17.13014,
+    -62.58785,
+    17.13014
+],
+  "geometry": {"coordinates":[-62.58785,17.13014],"type":"Point"}
+}
