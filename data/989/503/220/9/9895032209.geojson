@@ -1,0 +1,72 @@
+{
+  "id": 9895032209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.66336,17.2659,-62.66336,17.2659",
+    "geom:latitude":17.2659,
+    "geom:longitude":-62.66336,
+    "iso:country":"KN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11885108: name \"Grape Tree Bottom\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11885108"
+        },
+        {
+            "citation":"GeoNames populated place 11885108: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11885108"
+        },
+        {
+            "citation":"GeoNames populated place 11885108: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11885108"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673121 (Saint George Basseterre), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632551,
+        85673121,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11885108
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"d05c1e52f005314cbff1c1dc4cc6c6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":9895032209,
+            "region_id":85673121
+        }
+    ],
+    "wof:id":9895032209,
+    "wof:lastmodified":1795735224,
+    "wof:name":"Grape Tree Bottom",
+    "wof:parent_id":85673121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.66336,
+    17.2659,
+    -62.66336,
+    17.2659
+],
+  "geometry": {"coordinates":[-62.66336,17.2659],"type":"Point"}
+}
