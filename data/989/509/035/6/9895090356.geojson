@@ -1,0 +1,72 @@
+{
+  "id": 9895090356,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.58157,17.20376,-62.58157,17.20376",
+    "geom:latitude":17.20376,
+    "geom:longitude":-62.58157,
+    "iso:country":"KN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11883260: name \"Nisbett Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11883260"
+        },
+        {
+            "citation":"GeoNames populated place 11883260: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11883260"
+        },
+        {
+            "citation":"GeoNames populated place 11883260: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11883260"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85673131 (Saint James Windward), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632551,
+        85673131,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11883260
+    },
+    "wof:country":"KN",
+    "wof:geomhash":"254462767233cc988b41026dc9e6ade8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632551,
+            "locality_id":9895090356,
+            "region_id":85673131
+        }
+    ],
+    "wof:id":9895090356,
+    "wof:lastmodified":1795746203,
+    "wof:name":"Nisbett Settlement",
+    "wof:parent_id":85673131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.58157,
+    17.20376,
+    -62.58157,
+    17.20376
+],
+  "geometry": {"coordinates":[-62.58157,17.20376],"type":"Point"}
+}
